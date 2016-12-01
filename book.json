@@ -1,0 +1,18 @@
+{
+    "title": "Deeperience-react-native boilerplate 指南",
+    "description": "這是一本專為 Deeperience-react-native boilerplate 寫的指南",
+    "language": "zh-tw",
+    "plugins": [
+        "github",
+        "prism",
+        "-highlight",
+        "splitter",
+        "ga",
+        "github-buttons"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": ""
+        }
+    }
+}
