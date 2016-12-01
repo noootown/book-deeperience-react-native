@@ -1,4 +1,4 @@
-# Introduction -- React-native、Boilerplate 是什麼
+# React-native、Boilerplate 是什麼
 
 ## 《從0到100打造一個React Native boilerplate》系列前言
 前不久，為了開發一個產品，我和我的同事**Rae**，開發了一個 boilerplate，目標是讓新進的人能更好上手，也讓我們開發的速度更快，藉由這次30天的活動，我們想要將我們開發的成果和大家分享，也希望大家有興趣的人可以給我們一些建議和 PR。
