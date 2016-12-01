@@ -39,5 +39,8 @@
     * [Android Structure](Other/Android Structure.md)
     * [Deploy](Other/Deploy.md)
 * [Summary](Summary/index.md)
+://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Summary/ custom redux-logger settings
+logger.js
+
 * [Contributor](Contributor/index.md)
 

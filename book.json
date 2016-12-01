@@ -13,6 +13,9 @@
     "pluginsConfig": {
         "github": {
             "url": ""
+        },
+        "ga": {
+            "token": "UA-68117185-2"
         }
     }
 }
