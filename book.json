@@ -12,7 +12,7 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/"
+            "url": "https://github.com/noootown/deeperience-react-native"
         },
         "ga": {
             "token": "UA-68117185-2"
