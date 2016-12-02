@@ -79,7 +79,7 @@ Boilerplate 的意思是模版，意即整個網站或系統的架構。專案�
 
 以下是這次30天的目錄 
 
-1.	[Introduction -- React Native & Boilerplate](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Introduction/React-native%20&%20Boilerplate.html)
+1.	[Introduction -- React Native & Boilerplate](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Introduction/React%20Native%20&%20Boilerplate.html)
 2.	[Basic -- ES6 vs Babel](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/ES6%20vs%20Babel.html)
 3.	[Basic -- Reactjs Lifecycle & State vs Props](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/Reactjs%20Lifecycle%20&%20State%20vs%20Props.html)
 4.	[Basic -- Flexbox](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/Reactjs%20Lifecycle%20&%20State%20vs%20Props.html)
