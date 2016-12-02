@@ -75,6 +75,10 @@ Boilerplate 的意思是模版，意即整個網站或系統的架構。專案�
 - 分成 test, development 和 production 版本，讓不同 team 的工程師可以對系統做不同的操作。
 - 彈性，API 定義清楚，容易 migrate，模組容易插拔。例如可以很快速的換成不同的資料庫來服務系統。
 
+## 安裝方法
+
+請參考 [README.md](https://github.com/noootown/deeperience-react-native/blob/develop/README.md)
+
 ## 目錄
 
 以下是這次30天的目錄 
@@ -84,23 +88,23 @@ Boilerplate 的意思是模版，意即整個網站或系統的架構。專案�
 3.	[Basic -- Reactjs Lifecycle & State vs Props](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/Reactjs%20Lifecycle%20&%20State%20vs%20Props.html)
 4.	[Basic -- Flexbox](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/Reactjs%20Lifecycle%20&%20State%20vs%20Props.html)
 5.	[Basic -- Lint & Codings Style](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/Lint%20&%20Coding%20Style.html)
-6.	[Infrastructure -- React Native Style](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Infrastructure/React%20Native%20Style.html)
-7.	[Infrastructure -- I18n](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/I18n.html)
-8.	[Infrastructure -- React Native Routing](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/React%20Native%20Routing.html)
-9.  [Infrastructure -- Local Storage](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Basic/Local%20Storage.html)
-10. [Redux -- Redux & React](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Redux%20&%20React.html)
-11. [Redux -- Store vs State](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Store%20vs%20State.html)
-12.	[Infrastructure -- Container vs Component](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Container%20vs%20Component.html)
-13. [Redux -- Redux & Reducer & Action creater & Action](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Reducer%20&%20Action%20creater%20&%20Action.html)
-14. [Redux -- MapStateToProps & MapDispatchToProps & Connect](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/MapStateToProps%20&%20MapDispatchToProps%20&%20Connect.html)
-15. [Redux -- Immutable JS](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/ImmutableJS.html)
-16. [Backend -- Firebase](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Backend/Firebase.html)
-17. [Backend -- Middleware](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Backend/Middleware.html)
-18. [Backend -- Data model](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Backend/Data%20Modal.html)
-19. [Backend –- API](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Backend/API.html)
-20. [Advanced State control -- Promise](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Advanced%20State%20Control/Promise.html)
-21. [Advanced State control -- Redux Thunk](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Advanced%20State%20Control/Redux%20Thunk.html)
-22. [Advanced State control -- Async Await & Generator Function](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Advanced%20State%20Control/Async%20Await%20&%20Generator%20Function.html)
+6.  [Infrastructure -- File Structure](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Infrastructure/File%20Structure.html)
+7.	[Infrastructure -- React Native Style](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Infrastructure/React%20Native%20Style.html)
+8.	[Infrastructure -- I18n](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Infrastructure/I18n.html)
+9.	[Infrastructure -- React Native Routing](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Infrastructure/React%20Native%20Routing.html)
+10. [Infrastructure -- Local Storage](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Infrastructure/Local%20Storage.html)
+11. [Redux -- Redux & React](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Redux%20&%20React.html)
+12. [Redux -- Store vs State](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Store%20vs%20State.html)
+13. [Redux -- Container vs Component](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Container%20vs%20Component.html)
+14. [Redux -- Redux & Reducer & Action creater & Action](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Reducer%20&%20Action%20creater%20&%20Action.html)
+15. [Redux -- MapStateToProps & MapDispatchToProps & Connect](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/MapStateToProps%20&%20MapDispatchToProps%20&%20Connect.html)
+16. [Redux -- Immutable JS](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/ImmutableJS.html)
+17. [Redux -- Middleware](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Redux/Middleware.html)
+18. [Backend -- Firebase](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Backend/Firebase.html)
+19. [Backend -- Data model](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Backend/Data%20Modal.html)
+20. [Backend –- API](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Backend/API.html)
+21. [Advanced State control -- Promise & Generator Function & Async Await](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Advanced%20State%20Control/Promise%20&%20Generator%20Function%20&%20Async%20Await.html)
+22. [Advanced State control -- Redux Thunk](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Advanced%20State%20Control/Redux%20Thunk.html)
 23. [Advanced State control -- Redux Saga](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Advanced%20State%20Control/Redux%20Saga.html)
 24. [Test -- Flow](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Test/Flow.html)
 25. [Test -- Jest](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Test/Jest.html)
@@ -108,7 +112,7 @@ Boilerplate 的意思是模版，意即整個網站或系統的架構。專案�
 27. [Other -- iOS Structure](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Other/iOS%20Structure.html)
 28. [Other -- Android Structure](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Other/Android%20Structure.html)
 29. [Other -- Deploy](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Other/Deploy.html)
-30. [Summary](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Summary/)
+30. [Conclusion](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/Conclusion/)
 
 ## 參考資料
 1. [React Native 官網](https://facebook.github.io/react-native/)
