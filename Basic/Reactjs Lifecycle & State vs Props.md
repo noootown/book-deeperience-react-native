@@ -11,7 +11,7 @@
 #### 1. React Component lifecycle vs Android lifecycle
 如果有寫過 Android 的，應該會知道 Android 的最基本畫面，是由一個 ```Activity``` 所組成的。一個 Activity 在從 instance 被 create 到被關掉，然後被 Garbage collector 收回，總共會經過不同個階段。在這邊我簡單列一下（因為我沒有寫過 iOS，所以以Android 做舉例）
 
-![Android Lifecycle](../images/android%20lifecycle.png)
+![Android Lifecycle](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/images/android%20lifecycle.png)
 
 從 ```onCreate()``` 開始，到 ```onDestroy()``` 結束，總共會分很多個階段，在這邊我們可以注意到的是，只要 Activity 被放在背景的話，那他其實是處於 onStop 階段的。只要畫面又背拉回來前景，那 Android 系統又回將這個 Activity 往前回到 onResume 的階段。
 
@@ -19,7 +19,7 @@
 
 而 React Component 呢？則是如下：
 
-![React Component Lifecycle](../images/react-lifecycle.png)
+![React Component Lifecycle](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/images/react-lifecycle.png)
 
 [圖片來源](http://imgh.us/react-lifecycle.svg)
 
