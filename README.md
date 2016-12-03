@@ -13,5 +13,5 @@
 
 如果喜歡本書的話，歡迎到下面的連結，給我們 star 或 PR。如果能幫我們翻譯成多國語系，那就更加的感謝了XD。
 
-- #### [Deeperience-react-native 程式碼](https://github.com/noootown/deeperience-react-native)
-- #### [安裝方式和細節](https://github.com/noootown/deeperience-react-native/blob/develop/README.md)
+- [Deeperience-react-native 程式碼](https://github.com/noootown/deeperience-react-native)
+- [安裝方式和細節](https://github.com/noootown/deeperience-react-native/blob/master/README.md)

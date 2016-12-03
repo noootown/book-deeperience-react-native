@@ -77,7 +77,7 @@ Boilerplate 的意思是模版，意即整個網站或系統的架構。專案�
 
 ## 安裝方法
 
-請參考 [README.md](https://github.com/noootown/deeperience-react-native/blob/develop/README.md)
+請參考 [README.md](https://github.com/noootown/deeperience-react-native/blob/master/README.md)
 
 ## 目錄
 

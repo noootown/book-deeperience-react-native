@@ -15,7 +15,7 @@
 1. 擁有很多的插件
 2. 設定起來也十分容易，可以隨時更換設定
 
-另外，設定檔在 [.eslintrc.json](https://github.com/noootown/deeperience-react-native/blob/develop/.eslintrc.json)，設定的細項可以參照[這篇](http://eslint.org/docs/rules/)。
+另外，設定檔在 [.eslintrc.json](https://github.com/noootown/deeperience-react-native/blob/master/.eslintrc.json)，設定的細項可以參照[這篇](http://eslint.org/docs/rules/)。
 
 #### 使用方法
 
