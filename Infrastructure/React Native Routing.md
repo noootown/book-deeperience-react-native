@@ -70,3 +70,4 @@ Router 的部分，我們寫在 ```src/index.js```。格式大約如下：
 上面這個 code 可以分成以下幾個部分講解：
 1. 先拿到整個專案的 redux store，並傳進provider 。
 2. 接著才在裡頭包一個 Router，這個 Router 會負責整個專案的 routing。詳細的routing和換頁用法可以參考 [API](https://github.com/aksonov/react-native-router-flux/blob/master/docs/API_CONFIGURATION.md) 和 [tutorial](https://github.com/aksonov/react-native-router-flux/blob/master/docs/MINI_TUTORIAL.md)。
+3. 最後，這部分都設定完後，把整個專案的根，也就是 ```Deeperience``` 給掛載起來。
