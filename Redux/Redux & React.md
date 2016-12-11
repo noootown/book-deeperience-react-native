@@ -68,6 +68,8 @@ Redux 和 React 搭配的原因，可以分成底下兩個：
 
 - 有些 dom 訂閱 global 的 store，有些 dom 訂閱父元件的 props（精確來說，應該是 virtual DOM），DOM 的結構容易維護，也容易重複使用。
 
+- 當管 controller 的 action creator 和 reducer，以及掌管 view 的 DOM 分離，更好維護，也更有彈性。 
+
 - 因為 reducer 和 action creator 的功能非常明確，所以我們能清鬆的架構出有條理的結構，關於這部分，我們會在之後的章節繼續介紹。
 
 # 延伸閱讀
