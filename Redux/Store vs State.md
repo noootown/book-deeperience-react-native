@@ -27,7 +27,7 @@
 
 想要使用 redux-logger 的話，可以開啟 chrome 的 debugger。在手機的每個操作都會產生一個action，那麼我們就可以觀察 state 的變化。
 
-![redux-logger]('../images/redux-logger.png)
+![redux-logger](../images/redux-logger.png)
 
 雖然在單人開發上，偶爾寫個 local state 會很輕鬆，但是在多人開發起來，這會是個臭蟲的開始。維護或修改你的 code 人，很有可能會找不到你的 local state，或者曲解了，這就會浪費很多的時間！
 
