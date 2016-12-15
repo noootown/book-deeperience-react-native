@@ -46,7 +46,21 @@ switch (action.type) {
 	}
 }
 ```
-寫成這個樣子有一個，便是可讀性較低，容易有臭蟲產生。
+寫成這個樣子有一個缺點，便是可讀性較低，容易有臭蟲產生。相比之下，我認為以下這種寫法比可讀性比較高。
+
+```
+export default function customReducer(state = initialState, action) {
+  if (!(state instanceof InitialState)) return initialState.mergeDeep(state)
+  switch (action.type) {
+    case SET_HOTEL_TYPE:
+      return state.setIn(['hotelType'], action.payload.type)
+
+    case SET_TRIP_LOCATION:
+      return state.setIn(['tripLocation'], action.payload.tripLocation)
+  }
+  return state
+}
+```
 
 ## 延伸閱讀
 
