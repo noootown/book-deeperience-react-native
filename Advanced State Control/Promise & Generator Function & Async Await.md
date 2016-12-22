@@ -1,7 +1,5 @@
 # Promise & Generator Function & Async Await
 
-延伸閱讀
-
 ## 前言
 
 這篇文章，想要探討的是javascript最有魅力的一個部分，非同步 (asynchronous)。 為什麼會說它是javascript最有魅力的一個部分呢？那是因為javascript本身應用的環境就充滿了各種非同步。打個比方好了，如果前端要和後端抓個資料，總不能送出request後，就block住吧，那如果資料沒回傳回來，不就GG了？其它事情都不用做了。所以，最正確的解，一定是送完request後，就繼續去做其它事，等待回來的結果，再根據結果做事。
