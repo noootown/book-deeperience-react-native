@@ -44,7 +44,7 @@ type ObjectWithManyProperties = {
 }
 ```
 
-全部都寫完後，我們就可以輸入 ```flow``` 來檢查專案囉。
+全部都寫完後，我們就可以輸入 ```flow``` 來檢查專案囉。
 
 
 ## 結語
