@@ -85,7 +85,9 @@ public class MainApplication extends Application implements ReactApplication {
 接著還有第三步，看到 ```/android/app/build.gradle```，注意，有兩個 ```build.gradle```。
 
 ```
-.....
+.
+.
+.
 dependencies {
 	// 有一些 library 會需要在這邊也加上。
     compile project(':react-native-simpledialog-android')
@@ -98,6 +100,8 @@ dependencies {
     compile project(':react-native-i18n')
     compile project(':react-native-facebook-login')
 }
-.....
+.
+.
+.
 ```
 到這裡就大功告成了，不過一樣，其實使用 ```react-native link``` 就可以解決了。然而，了解這些的話，我們在之後有遇到奇怪問題的時候就可以有工具解決囉！
