@@ -1,9 +1,9 @@
 # React Native & Boilerplate
 
 ## 《從0到100打造一個React Native boilerplate》系列前言
-前不久，為了開發一個產品，我和我的同事**Rae**，開發了一個 boilerplate，目標是讓新進的人能更好上手，也讓我們開發的速度更快，藉由這次30天的活動，我們想要將我們開發的成果和大家分享，也希望大家有興趣的人可以給我們一些建議和 PR。
+前不久，為了開發一個產品，我和我的同事 [Rae](https://github.com/joey3060)，開發了一個 boilerplate，目標是讓新進的人能更好上手，也讓我們開發的速度更快，藉由這次30天的活動，我們想要將我們開發的成果和大家分享，也希望大家有興趣的人可以給我們一些建議和 PR。
 
-在進行內文的撰寫之前，我想先謝謝我的同事**Rae** 。在這個過程之中，他教了我很多（包括我的 redux 就是他教的XD）此外，這一個 boilerplate 也是在他的通力合作之下完成的。所以在撰寫這一系列文之前，我想要先強調，這個 boilerplate **並非我一個人完成的**。
+在進行內文的撰寫之前，我想先謝謝我的同事 [Rae](https://github.com/joey3060) 。在這個過程之中，他教了我很多（包括我的 redux 就是他教的XD）此外，這一個 boilerplate 也是在他的通力合作之下完成的。所以在撰寫這一系列文之前，我想要先強調，這個 boilerplate **並非我一個人完成的**。
 
 這次的30天鐵人文章，會同步發表於 [gitbook](https://noootown.gitbooks.io/deeperience-react-native-boilerplate/content/)，喜歡文章的，歡迎給我們建議和star。
 

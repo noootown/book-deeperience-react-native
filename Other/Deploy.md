@@ -18,6 +18,8 @@ keytool -genkey -v -keystore my-release-key.keystore -alias my-key-alias -keyalg
 
 要注意的是，這邊要根據自己的習慣，調整 keystore 的名字，並妥善保存，例如發到 bitbucket 或者 gitlab 等private repo。app 在發部之後，如果需要做調整的話，都需要再簽上同一個 keystore，如果這個 keystore 弄丟的話，那麼就只能再重新發佈另一個 app ，那麼對產品是一個重大的損失。
 
+keystore 的位置會放在 ```家目錄/.android/```下。
+
 2. 設定 ```~/.gradle/gradle.properties``` 的資料。（參閱 [連結](https://facebook.github.io/react-native/docs/signed-apk-android.html#setting-up-gradle-variables) ）
 
 3. 改變 ```android/app/build.gradle``` 的 config。（參閱 [連結](https://facebook.github.io/react-native/docs/signed-apk-android.html#adding-signing-config-to-your-app-s-gradle-config) ）
