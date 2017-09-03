@@ -84,10 +84,7 @@ const stateless => ({ props1, ...rest }) => {
 }
 ```
 
-寫成 stateless component 的好處主要有兩個
-
-1.	效率好
-2. 易讀
+寫成 stateless component 的好處主要是易讀和較好維護。
 
 ##  State vs Props
 
